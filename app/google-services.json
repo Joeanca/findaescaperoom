@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1021086530454",
+    "firebase_url": "https://find-a-escape-room.firebaseio.com",
+    "project_id": "find-a-escape-room",
+    "storage_bucket": "find-a-escape-room.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021086530454:android:a6ca52443455c51a",
+        "android_client_info": {
+          "package_name": "com.example.jc.findaescaperoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021086530454-bajf70p0vmdfik93ijd6988qb5ervhto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jc.findaescaperoom",
+            "certificate_hash": "698a2ed6d9bfd67afee7f343f5db93582d5165af"
+          }
+        },
+        {
+          "client_id": "1021086530454-1eigeb04ura7vkq0n7umh2gckfndgk6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsYoxKInkiRUvgFEcn4HWzr-Jg8FV5iiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021086530454-1eigeb04ura7vkq0n7umh2gckfndgk6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
